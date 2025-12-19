@@ -1,0 +1,72 @@
+{
+  "minStars": 100,
+  "maxResults": 5,
+  "language": "TypeScript",
+  "saveResults": true,
+  "cacheEnabled": true,
+  "cacheTTL": 3600000,
+  "retryAttempts": 3,
+  "retryDelay": 1000,
+  "searchHistory": [
+    {
+      "keywords": "jotai",
+      "language": "TypeScript",
+      "minStars": 100,
+      "maxResults": 5,
+      "license": null,
+      "minForks": null,
+      "requireGoodFirstIssues": false,
+      "timestamp": 1766170972381
+    },
+    {
+      "keywords": "react",
+      "language": "TypeScript",
+      "minStars": 100,
+      "maxResults": 100,
+      "license": null,
+      "minForks": null,
+      "requireGoodFirstIssues": false,
+      "timestamp": 1766169095054
+    },
+    {
+      "keywords": "solid",
+      "language": "TypeScript",
+      "minStars": 100,
+      "maxResults": 20,
+      "license": null,
+      "minForks": null,
+      "requireGoodFirstIssues": true,
+      "timestamp": 1766168037298
+    },
+    {
+      "keywords": "shadcn react tailwind",
+      "language": "TypeScript",
+      "minStars": 100,
+      "maxResults": 15,
+      "license": null,
+      "minForks": null,
+      "requireGoodFirstIssues": true,
+      "timestamp": 1766167927471
+    },
+    {
+      "keywords": "tailwind",
+      "language": "TypeScript",
+      "minStars": 100,
+      "maxResults": 20,
+      "license": null,
+      "minForks": null,
+      "requireGoodFirstIssues": true,
+      "timestamp": 1766167297748
+    },
+    {
+      "keywords": "react component library",
+      "language": "TypeScript",
+      "minStars": 100,
+      "maxResults": 5,
+      "license": null,
+      "minForks": null,
+      "requireGoodFirstIssues": true,
+      "timestamp": 1766167026615
+    }
+  ]
+}

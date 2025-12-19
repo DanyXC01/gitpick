@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+
+.claude
+
+# Output files
+repos-results.json
+repos-report.md
+repos-results.csv
+repos-report.html
+
+# Cache
+.cache/
+.repo-finder-cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# User config (optional - uncomment if you want to commit it)
+# .repo-finder.config.json
